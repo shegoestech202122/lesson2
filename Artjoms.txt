@@ -2,3 +2,6 @@ Hello, Artjoms!
 It is a wonderful day!
 
 i have added some additional info to this file!
+
+
+This line should be only on server... for now!
